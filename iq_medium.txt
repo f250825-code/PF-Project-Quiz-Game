@@ -1,0 +1,163 @@
+Find the missing number: 3, 9, 27, ?, 243
+81
+90
+72
+100
+A
+Which shape comes next in the pattern: square, circle, square, circle, ?
+Square
+Circle
+Triangle
+Hexagon
+B
+If all cats are animals and some animals are fast, can some cats be fast?
+Yes
+No
+Cannot Determine
+All of the above
+C
+Complete the series: 2, 6, 12, 20, ?
+30
+24
+28
+32
+A
+Which number does not belong: 2, 4, 8, 16, 18, 32
+2
+4
+8
+18
+D
+If today is Tuesday, what day will it be 15 days later?
+Tuesday
+Wednesday
+Monday
+Thursday
+C
+Find the next letter: A, D, G, J, ?
+M
+N
+O
+P
+A
+Which shape is different: triangle, square, circle, rectangle?
+Triangle
+Square
+Circle
+Rectangle
+C
+Which number completes the series: 1, 2, 4, 7, 11, ?
+16
+15
+18
+14
+B
+Which comes next: 5, 10, 20, 40, ?
+50
+60
+70
+80
+B
+If 2 pencils cost $5, how much do 7 pencils cost?
+17.5
+15
+20
+12
+A
+Find the odd one out: Dog, Cat, Lion, Car
+Dog
+Cat
+Lion
+Car
+D
+If a clock shows 3:15, what angle is between the hour and minute hand?
+0°
+7.5°
+30°
+45°
+B
+Which number is next: 1, 1, 2, 6, 24, ?
+120
+36
+24
+72
+A
+Find the missing number: 2, 3, 5, 7, 11, ?
+13
+14
+15
+12
+A
+Which letter comes next: Z, X, V, T, ?
+R
+S
+U
+Q
+A
+Which number is half of 144?
+60
+70
+72
+80
+C
+Which shape has 3 sides?
+Triangle
+Square
+Circle
+Rectangle
+A
+Find the odd letter: B, D, F, H, I
+B
+D
+F
+H
+I
+E
+Which number completes the pattern: 5, 10, 20, 40, ?
+50
+60
+80
+70
+B
+Which comes next in series: 0, 1, 1, 2, 3, ?
+5
+6
+4
+7
+A
+If yesterday was Friday, what day is tomorrow?
+Sunday
+Monday
+Saturday
+Tuesday
+C
+Which number is missing: 10, 20, 30, 40, ?, 60
+50
+45
+55
+52
+A
+Which is the odd one out: Apple, Banana, Carrot, Orange
+Apple
+Banana
+Carrot
+Orange
+C
+Which number comes next: 1, 4, 9, 16, ?, 36
+25
+20
+24
+30
+A
+Which letter completes the series: A, C, F, J, ?
+O
+N
+P
+M
+A
+Which is heavier: 1kg iron or 1kg cotton?
+Equal
+Iron
+Cotton
+Cannot Determine
+A
