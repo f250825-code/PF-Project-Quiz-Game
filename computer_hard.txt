@@ -1,0 +1,192 @@
+Which algorithm is used for searching in sorted arrays?
+Binary Search
+Linear Search
+Bubble Search
+Quick Search
+A
+Which is a functional programming language?
+Haskell
+C++
+Python
+Java
+A
+Which sorting algorithm is fastest for large datasets?
+Quick Sort
+Bubble Sort
+Insertion Sort
+Selection Sort
+A
+Which layer of OSI handles routing?
+Network
+Transport
+Session
+Application
+A
+Which language is used for embedded systems?
+C
+Java
+Python
+HTML
+A
+Which is a volatile memory?
+RAM
+ROM
+Hard Disk
+SSD
+A
+Which is used to prevent unauthorized access to network?
+Firewall
+Router
+Switch
+Hub
+A
+Which database is relational?
+MySQL
+MongoDB
+Cassandra
+Redis
+A
+Which is a NoSQL database?
+MongoDB
+MySQL
+Oracle
+SQL Server
+A
+Which device converts analog signals to digital?
+ADC
+DAC
+Modem
+Router
+A
+Which protocol is used for secure file transfer?
+SFTP
+FTP
+HTTP
+SMTP
+A
+Which OS is open source?
+Linux
+Windows
+MacOS
+DOS
+A
+Which is the fastest storage device?
+SSD
+HDD
+RAM
+ROM
+A
+Which is used to manage memory in computers?
+Operating System
+Compiler
+CPU
+Monitor
+A
+Which is an interpreted language?
+Python
+C++
+Java
+C
+A
+Which protocol is used for email retrieval?
+IMAP
+SMTP
+HTTP
+FTP
+A
+Which algorithm is used for data encryption?
+AES
+Binary Search
+Quick Sort
+RSA
+D
+Which is an example of a cloud platform?
+AWS
+Windows
+Linux
+Python
+A
+Which is a wireless communication standard?
+Wi-Fi
+Ethernet
+USB
+HDMI
+A
+Which layer of OSI ensures error-free data transfer?
+Data Link
+Physical
+Transport
+Session
+D
+Which language is used for concurrent programming?
+Java
+HTML
+Python
+CSS
+A
+Which device regulates voltage in computers?
+UPS
+CPU
+RAM
+Monitor
+A
+Which is a page replacement algorithm?
+LRU
+FIFO
+Bubble Sort
+Quick Sort
+A
+Which is used for version control?
+Git
+Python
+Java
+HTML
+A
+Which protocol is used for DNS lookup?
+DNS
+HTTP
+SMTP
+FTP
+A
+Which data structure uses FIFO?
+Queue
+Stack
+Tree
+Graph
+A
+Which is a programming paradigm?
+Object-Oriented
+HTML
+CSS
+Python
+A
+Which language is platform-independent?
+Java
+C++
+Python
+Assembly
+A
+Which device manages network traffic?
+Router
+Switch
+Hub
+Bridge
+A
+Which protocol is used for remote login?
+SSH
+HTTP
+FTP
+SMTP
+A
+Which is used to reduce network collisions?
+Switch
+Hub
+Router
+Modem
+A
+Which algorithm finds shortest path in graph?
+Dijkstra
+Binary Search
+Quick Sort
+DFS
+A
