@@ -1,0 +1,193 @@
+Which language is used for backend development?
+Python
+Java
+C++
+Ruby
+A
+Which is an operating system?
+Windows
+Python
+HTML
+Excel
+A
+Which device is used to store large amounts of data?
+Hard Disk
+RAM
+CPU
+Monitor
+A
+Which programming language is mainly used for web development?
+JavaScript
+C
+Python
+Fortran
+A
+Which protocol is used to transfer web pages?
+HTTP
+FTP
+SMTP
+IMAP
+A
+Which device is used to connect a network?
+Router
+Printer
+Monitor
+Keyboard
+A
+Which language is used for mobile app development?
+Java
+HTML
+C++
+Python
+A
+Which is an example of a database?
+MySQL
+Windows
+Python
+Monitor
+A
+Which device provides temporary storage?
+RAM
+ROM
+Hard Disk
+CPU
+A
+Which language is used for statistical computing?
+R
+HTML
+C++
+Java
+A
+Which is a high-level language?
+Python
+Assembly
+C
+Machine code
+A
+Which language is used to style web pages?
+CSS
+HTML
+Java
+Python
+A
+Which device processes all instructions?
+CPU
+RAM
+Hard Disk
+Monitor
+A
+Which language is object-oriented?
+Java
+HTML
+Python
+C++
+A
+Which is non-volatile memory?
+ROM
+RAM
+Cache
+Registers
+A
+Which protocol is used to send emails?
+SMTP
+HTTP
+FTP
+SSH
+A
+Which is a network topology?
+Star
+Python
+C++
+HTML
+A
+Which is an example of a compiler?
+GCC
+Windows
+Python
+Chrome
+A
+Which device converts digital signals to analog?
+Modem
+Router
+Monitor
+Keyboard
+A
+Which is a server-side language?
+PHP
+HTML
+CSS
+Python
+A
+Which is used to connect computers over short distance?
+Bluetooth
+Wi-Fi
+Ethernet
+All
+A
+Which language is used for AI/ML?
+Python
+HTML
+C++
+Java
+A
+Which is a markup language?
+HTML
+CSS
+Python
+Java
+A
+Which language runs in the browser?
+JavaScript
+Python
+C++
+Java
+A
+Which device stores BIOS?
+ROM
+RAM
+CPU
+Hard Disk
+A
+Which is a storage device?
+SSD
+RAM
+CPU
+Monitor
+A
+Which is a pointer device?
+Mouse
+Keyboard
+Printer
+Monitor
+A
+Which is used to create spreadsheets?
+Excel
+Python
+HTML
+C++
+A
+Which protocol is secure for web browsing?
+HTTPS
+HTTP
+FTP
+SMTP
+A
+Which language is used for system programming?
+C
+Python
+HTML
+Java
+A
+Which device connects multiple networks together?
+Router
+Switch
+Hub
+Monitor
+A
+Which device helps in video conferencing?
+Camera
+Monitor
+Printer
+Keyboard
+Mouse
+A
