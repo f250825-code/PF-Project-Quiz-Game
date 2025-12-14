@@ -1,0 +1,181 @@
+Find the next number: 2, 4, 6, 8, ?
+10
+12
+14
+16
+A
+Which shape has 4 equal sides and 4 right angles?
+Rectangle
+Square
+Triangle
+Circle
+B
+If all roses are flowers and some flowers fade quickly, can we say some roses fade quickly?
+Yes
+No
+Cannot Determine
+All of the above
+C
+Find the missing number: 5, 10, 15, ?, 25
+18
+20
+22
+24
+B
+Which is the odd one out: Dog, Cat, Lion, Car
+Dog
+Cat
+Lion
+Car
+D
+Complete the pattern: A, C, E, G, ?
+H
+I
+J
+K
+B
+If today is Monday, what day will be 3 days after Wednesday?
+Saturday
+Friday
+Thursday
+Sunday
+A
+What comes next in the series: 1, 1, 2, 3, 5, ?
+6
+7
+8
+5
+C
+Which number is smallest: 0.5, 0.05, 0.55, 0.005
+0.5
+0.05
+0.55
+0.005
+D
+If two pencils cost 8 dollars, how much do 5 pencils cost?
+15
+20
+18
+25
+B
+What is half of a quarter of 200?
+25
+50
+75
+100
+A
+Which letter comes next: Z, X, V, T, ?
+R
+S
+U
+Q
+A
+If you rearrange the letters “CIFAIPC” you get the name of a:
+City
+Animal
+Ocean
+Food
+B
+Which is the odd number: 2, 4, 6, 9, 10
+2
+4
+6
+9
+D
+Find the missing number: 3, 6, 12, 24, ?
+30
+36
+48
+60
+C
+If all cats are animals and all animals are living things, are all cats living things?
+Yes
+No
+Cannot Determine
+All of the above
+A
+Which shape is different?
+Square
+Rectangle
+Triangle
+Circle
+C
+Which number completes the pattern: 10, 20, 30, ?, 50
+35
+40
+45
+42
+B
+Find the next number: 7, 14, 28, 56, ?
+70
+112
+84
+100
+B
+Which is the odd one out: Apple, Banana, Carrot, Orange
+Apple
+Banana
+Carrot
+Orange
+C
+If yesterday was Friday, what day is tomorrow?
+Sunday
+Monday
+Saturday
+Tuesday
+A
+Complete the pattern: 2, 4, 8, 16, ?
+18
+32
+24
+30
+B
+Which number is half of 150?
+50
+60
+75
+80
+C
+Which comes next: 5, 10, 20, 40, ?
+50
+60
+70
+80
+D
+If 6 pencils cost 12 dollars, how much does 1 pencil cost?
+2
+1
+3
+4
+A
+Which number is missing: 100, 90, 80, ?, 60
+70
+75
+65
+80
+A
+Find the odd letter: A, B, D, E, G
+A
+B
+D
+E
+G
+C
+Which is heavier: 1kg iron or 1kg cotton?
+Equal
+Iron
+Cotton
+Cannot Determine
+A
+Find the next number: 0, 1, 1, 2, 3, ?
+4
+5
+6
+7
+B
+Which number is missing: 1, 4, 9, 16, ?, 36
+20
+25
+30
+24
+B
