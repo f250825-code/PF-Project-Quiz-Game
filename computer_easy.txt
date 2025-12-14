@@ -1,0 +1,198 @@
+Which language is used to create web pages?
+HTML
+Python
+C++
+Java
+A
+What does CPU stand for?
+Central Processing Unit
+Computer Power Unit
+Central Program Unit
+Control Processing Unit
+A
+Which device is used to input data into a computer?
+Monitor
+Keyboard
+Printer
+Speaker
+B
+Which part of computer stores data permanently?
+RAM
+Hard Disk
+ROM
+Processor
+C
+Which is an output device?
+Keyboard
+Mouse
+Printer
+Monitor
+C
+Which language is used for styling web pages?
+HTML
+CSS
+Python
+C++
+B
+Which device processes instructions and performs calculations?
+CPU
+Keyboard
+Mouse
+Monitor
+A
+Which device displays output from the computer?
+Keyboard
+Monitor
+Printer
+Mouse
+B
+Which language is used for making dynamic web pages?
+JavaScript
+HTML
+C++
+Python
+A
+Which is a programming language?
+Python
+Monitor
+Keyboard
+Printer
+A
+Which key combination is used to copy text?
+Ctrl + C
+Ctrl + V
+Ctrl + X
+Ctrl + Z
+A
+Which memory is temporary?
+RAM
+ROM
+Hard Disk
+SSD
+A
+Which part of the computer executes instructions?
+CPU
+RAM
+Hard Disk
+Monitor
+A
+Which device stores data permanently?
+Hard Disk
+RAM
+ROM
+CPU
+A
+Which language is used for backend development?
+Python
+HTML
+CSS
+JavaScript
+A
+Which device allows you to input text?
+Keyboard
+Monitor
+Printer
+Mouse
+A
+Which is an example of OS?
+Windows
+Microsoft Word
+Python
+C++
+A
+Which language is used to query databases?
+SQL
+HTML
+Python
+C++
+A
+Which is a storage device?
+Hard Disk
+Monitor
+Keyboard
+Mouse
+A
+Which device controls all parts of a computer?
+CPU
+RAM
+Keyboard
+Monitor
+A
+Which programming language is used for AI?
+Python
+HTML
+C++
+Java
+A
+Which is a pointing device?
+Mouse
+Keyboard
+Printer
+Monitor
+A
+Which device interprets programming instructions?
+Compiler
+RAM
+CPU
+Monitor
+A
+Which language is used to structure content on a web page?
+HTML
+CSS
+Python
+Java
+A
+Which language is used for data analysis?
+Python
+HTML
+C++
+Java
+A
+Which device reads and writes data on a disk?
+Hard Disk
+RAM
+CPU
+Monitor
+A
+Which is a markup language?
+HTML
+C++
+Python
+Java
+A
+Which language runs in the browser?
+JavaScript
+Python
+C++
+Java
+A
+Which is used to connect to the internet?
+Router
+Monitor
+Keyboard
+Mouse
+A
+Which is non-volatile memory?
+ROM
+RAM
+Cache
+Registers
+A
+Which programming language is high-level?
+Python
+Assembly
+C
+Binary
+A
+Which device displays images on screen?
+Monitor
+Keyboard
+Printer
+CPU
+A
+Which language is used for server-side scripting?
+PHP
+HTML
+Python
+C++
+A
